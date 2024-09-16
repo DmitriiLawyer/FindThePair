@@ -1,0 +1,29 @@
+# JetBrains IDE settings
+.idea/
+*.iml
+
+# Public directory
+/public/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Compiled source
+*.class
+*.pyc
+*.o
+*.out
+*.so
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Build directories
+dist/
+build/
